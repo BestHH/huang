@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 ,红安综合
+http://hongan-live21.cjyun.org/10063/s10063-HAZH.m3u8?auth_key=1672502399-0-0-3558e7aa827c96ae981416fd28530dae
+#EXTINF:-1 ,黄冈综合
+http://huanggang-live21.cjyun.org/10120/s10120-xwzh.m3u8?auth_key=1672502399-0-0-658b048e38ac7a094a7bca28bf712d53
+#EXTINF:-1 ,黄冈生活
+http://huanggang-live21.cjyun.org/10120/s10120-xwgg.m3u8?auth_key=1672502399-0-0-1810c76c7b12b2b5d853504e46920f66
+#EXTINF:-1 ,凤凰中文
+https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+#EXTINF:-1 ,CCTV-1
+http://111.40.196.28/PLTV/88888888/224/3221225513/index.m3u8
