@@ -1,15 +1,279 @@
 #EXTM3U
+#EXTINF:-1 ,CCTV-1高清
+http://cfss.cc/ds/bfgd.php?id=488&Cf.m3u8
+#EXTINF:-1 ,CCTV-2高清
+http://cfss.cc/ds/bfgd.php?id=061&Cf.m3u8
+#EXTINF:-1 ,CCTV-3高清
+http://cfss.cc/ds/bfgd.php?id=062&Cf.m3u8
+#EXTINF:-1 ,CCTV-4高清
+http://cfss.cc/ds/bfgd.php?id=063&Cf.m3u8
+#EXTINF:-1 ,CCTV-5高清
+http://cfss.cc/ds/bfgd.php?id=064&Cf.m3u8
+#EXTINF:-1 ,CCTV-5+高清
+http://cfss.cc/ds/bfgd.php?id=246&Cf.m3u8
+#EXTINF:-1 ,CCTV-6高清
+http://cfss.cc/ds/bfgd.php?id=065&Cf.m3u8
+#EXTINF:-1 ,CCTV-7高清
+http://cfss.cc/ds/bfgd.php?id=127&Cf.m3u8
+#EXTINF:-1 ,CCTV-8高清
+http://cfss.cc/ds/bfgd.php?id=066&Cf.m3u8
+#EXTINF:-1 ,CCTV-9高清
+http://cfss.cc/ds/bfgd.php?id=128&Cf.m3u8
+#EXTINF:-1 ,CCTV-10高清
+http://cfss.cc/ds/bfgd.php?id=129&Cf.m3u8
+#EXTINF:-1 ,CCTV-11高清
+http://cfss.cc/ds/bfgd.php?id=130&Cf.m3u8
+#EXTINF:-1 ,CCTV-12高清
+http://cfss.cc/ds/bfgd.php?id=131&Cf.m3u8
+#EXTINF:-1 ,CCTV-13高清
+http://cfss.cc/ds/bfgd.php?id=067&Cf.m3u8
+#EXTINF:-1 ,CCTV-14高清
+http://cfss.cc/ds/bfgd.php?id=132&Cf.m3u8
+#EXTINF:-1 ,CCTV-15高清
+http://cfss.cc/ds/bfgd.php?id=133&Cf.m3u8
+#EXTINF:-1 ,CCTV-17高清
+http://cfss.cc/ds/bfgd.php?id=204&Cf.m3u8
+#EXTINF:-1 ,四川卫视高清
+http://cfss.cc/ds/bfgd.php?id=103&Cf.m3u8
+#EXTINF:-1 ,北京卫视高清
+http://cfss.cc/ds/bfgd.php?id=083&Cf.m3u8
+#EXTINF:-1 ,重庆卫视高清
+http://cfss.cc/ds/bfgd.php?id=107&Cf.m3u8
+#EXTINF:-1 ,江苏卫视高清
+http://cfss.cc/ds/bfgd.php?id=085&Cf.m3u8
+#EXTINF:-1 ,天津卫视高清
+http://cfss.cc/ds/bfgd.php?id=084&Cf.m3u8
+#EXTINF:-1 ,湖南卫视高清
+http://cfss.cc/ds/bfgd.php?id=086&Cf.m3u8
+#EXTINF:-1 ,湖北卫视高清
+http://cfss.cc/ds/bfgd.php?id=102&Cf.m3u8
+#EXTINF:-1 ,广东卫视高清
+http://cfss.cc/ds/bfgd.php?id=092&Cf.m3u8
+#EXTINF:-1 ,东方卫视高清
+http://cfss.cc/ds/bfgd.php?id=093&Cf.m3u8
+#EXTINF:-1 ,浙江卫视高清
+http://cfss.cc/ds/bfgd.php?id=094&Cf.m3u8
+#EXTINF:-1 ,吉林卫视高清
+http://cfss.cc/ds/bfgd.php?id=097&Cf.m3u8
+#EXTINF:-1 ,安徽卫视高清
+http://cfss.cc/ds/bfgd.php?id=096&Cf.m3u8
+#EXTINF:-1 ,江西卫视高清
+http://cfss.cc/ds/bfgd.php?id=098&Cf.m3u8
+#EXTINF:-1 ,山东卫视高清
+http://cfss.cc/ds/bfgd.php?id=099&Cf.m3u8
+#EXTINF:-1 ,贵州卫视高清
+http://cfss.cc/ds/bfgd.php?id=101&Cf.m3u8
+#EXTINF:-1 ,深圳卫视高清
+http://cfss.cc/ds/bfgd.php?id=100&Cf.m3u8
+#EXTINF:-1 ,陕西卫视高清
+http://cfss.cc/ds/bfgd.php?id=512&Cf.m3u8
+#EXTINF:-1 ,河南卫视高清
+http://cfss.cc/ds/bfgd.php?id=339&Cf.m3u8
+#EXTINF:-1 ,河北卫视高清
+http://cfss.cc/ds/bfgd.php?id=108&Cf.m3u8
+#EXTINF:-1 ,海南卫视高清
+http://cfss.cc/ds/bfgd.php?id=473&Cf.m3u8
+#EXTINF:-1 ,云南卫视高清
+http://cfss.cc/ds/bfgd.php?id=482&Cf.m3u8
+#EXTINF:-1 ,东南卫视高清
+http://cfss.cc/ds/bfgd.php?id=483&Cf.m3u8
+#EXTINF:-1 ,辽宁卫视高清
+http://cfss.cc/ds/bfgd.php?id=058&Cf.m3u8
+#EXTINF:-1 ,广西卫视高清
+http://cfss.cc/ds/bfgd.php?id=116&Cf.m3u8
+#EXTINF:-1 ,云南卫视
+http://cfss.cc/ds/bfgd.php?id=115&Cf.m3u8
+#EXTINF:-1 ,河南卫视
+http://cfss.cc/ds/bfgd.php?id=104&Cf.m3u8
+#EXTINF:-1 ,宁夏卫视
+http://cfss.cc/ds/bfgd.php?id=118&Cf.m3u8
+#EXTINF:-1 ,陕西卫视
+http://cfss.cc/ds/bfgd.php?id=114&Cf.m3u8
+#EXTINF:-1 ,延边卫视
+http://cfss.cc/ds/bfgd.php?id=117&Cf.m3u8
+#EXTINF:-1 ,甘肃卫视
+http://cfss.cc/ds/bfgd.php?id=119&Cf.m3u8
+#EXTINF:-1 ,西藏卫视
+http://cfss.cc/ds/bfgd.php?id=121&Cf.m3u8
+#EXTINF:-1 ,农林卫视
+http://cfss.cc/ds/bfgd.php?id=122&Cf.m3u8
+#EXTINF:-1 ,兵团卫视
+http://cfss.cc/ds/bfgd.php?id=124&Cf.m3u8
+#EXTINF:-1 ,山西卫视
+http://cfss.cc/ds/bfgd.php?id=109&Cf.m3u8
+#EXTINF:-1 ,青海卫视
+http://cfss.cc/ds/bfgd.php?id=111&Cf.m3u8
+#EXTINF:-1 ,内蒙古卫视
+http://cfss.cc/ds/bfgd.php?id=110&Cf.m3u8
+#EXTINF:-1 ,黑龙江卫视高清
+http://cfss.cc/ds/bfgd.php?id=095&Cf.m3u8
+#EXTINF:-1 ,金鹰卡通
+http://cfss.cc/ds/bfgd.php?id=105&Cf.m3u8
+#EXTINF:-1 ,北京卡酷少儿
+http://cfss.cc/ds/bfgd.php?id=106&Cf.m3u8
+#EXTINF:-1 ,山东教育卫视
+http://cfss.cc/ds/bfgd.php?id=112&Cf.m3u8
+#EXTINF:-1 ,北京纪实科教高清
+http://cfss.cc/ds/bfgd.php?id=113&Cf.m3u8
+#EXTINF:-1 ,CETV-1高清
+http://cfss.cc/ds/bfgd.php?id=135&Cf.m3u8
+#EXTINF:-1 ,CETV-2
+http://cfss.cc/ds/bfgd.php?id=492&Cf.m3u8
+#EXTINF:-1 ,CGTN-Cf
+http://cfss.cc/ds/bfgd.php?id=134&Cf.m3u8
+#EXTINF:-1 ,CGTN西班牙语
+http://cfss.cc/ds/bfgd.php?id=306&Cf.m3u8
+#EXTINF:-1 ,CGTN阿拉伯语
+http://cfss.cc/ds/bfgd.php?id=308&Cf.m3u8
+#EXTINF:-1 ,CGTN法语
+http://cfss.cc/ds/bfgd.php?id=307&Cf.m3u8
+#EXTINF:-1 ,CGTN俄语
+http://cfss.cc/ds/bfgd.php?id=309&Cf.m3u8
+#EXTINF:-1 ,CGTN
+http://cfss.cc/ds/bfgd.php?id=305&Cf.m3u8
+#EXTINF:-1 ,书画
+http://cfss.cc/ds/bfgd.php?id=180&Cf.m3u8
+#EXTINF:-1 ,家政
+http://cfss.cc/ds/bfgd.php?id=167&Cf.m3u8
+#EXTINF:-1 ,陶瓷
+http://cfss.cc/ds/bfgd.php?id=175&Cf.m3u8
+#EXTINF:-1 ,靓妆
+http://cfss.cc/ds/bfgd.php?id=179&Cf.m3u8
+#EXTINF:-1 ,茶频道
+http://cfss.cc/ds/bfgd.php?id=181&Cf.m3u8
+#EXTINF:-1 ,老故事
+http://cfss.cc/ds/bfgd.php?id=166&Cf.m3u8
+#EXTINF:-1 ,家庭理财
+http://cfss.cc/ds/bfgd.php?id=139&Cf.m3u8
+#EXTINF:-1 ,网络棋牌
+http://cfss.cc/ds/bfgd.php?id=141&Cf.m3u8
+#EXTINF:-1 ,游戏竞技
+http://cfss.cc/ds/bfgd.php?id=142&Cf.m3u8
+#EXTINF:-1 ,天元围棋
+http://cfss.cc/ds/bfgd.php?id=144&Cf.m3u8
+#EXTINF:-1 ,电子体育
+http://cfss.cc/ds/bfgd.php?id=143&Cf.m3u8
+#EXTINF:-1 ,环球旅游
+http://cfss.cc/ds/bfgd.php?id=147&Cf.m3u8
+#EXTINF:-1 ,车迷频道
+http://cfss.cc/ds/bfgd.php?id=146&Cf.m3u8
+#EXTINF:-1 ,生态环境
+http://cfss.cc/ds/bfgd.php?id=149&Cf.m3u8
+#EXTINF:-1 ,发现之旅
+http://cfss.cc/ds/bfgd.php?id=151&Cf.m3u8
+#EXTINF:-1 ,优优宝贝
+http://cfss.cc/ds/bfgd.php?id=153&Cf.m3u8
+#EXTINF:-1 ,新疆卫视
+http://cfss.cc/ds/bfgd.php?id=150&Cf.m3u8
+#EXTINF:-1 ,收藏天下
+http://cfss.cc/ds/bfgd.php?id=155&Cf.m3u8
+#EXTINF:-1 ,中华特产
+http://cfss.cc/ds/bfgd.php?id=158&Cf.m3u8
+#EXTINF:-1 ,中国天气
+http://cfss.cc/ds/bfgd.php?id=160&Cf.m3u8
+#EXTINF:-1 ,法治天地
+http://cfss.cc/ds/bfgd.php?id=162&Cf.m3u8
+#EXTINF:-1 ,电视指南
+http://cfss.cc/ds/bfgd.php?id=164&Cf.m3u8
+#EXTINF:-1 ,重庆汽摩
+http://cfss.cc/ds/bfgd.php?id=168&Cf.m3u8
+#EXTINF:-1 ,国学频道
+http://cfss.cc/ds/bfgd.php?id=169&Cf.m3u8
+#EXTINF:-1 ,女性时尚
+http://cfss.cc/ds/bfgd.php?id=176&Cf.m3u8
+#EXTINF:-1 ,世界地理
+http://cfss.cc/ds/bfgd.php?id=177&Cf.m3u8
+#EXTINF:-1 ,百姓健康
+http://cfss.cc/ds/bfgd.php?id=219&Cf.m3u8
+#EXTINF:-1 ,摄影频道
+http://cfss.cc/ds/bfgd.php?id=222&Cf.m3u8
+#EXTINF:-1 ,财富天下
+http://cfss.cc/ds/bfgd.php?id=231&Cf.m3u8
+#EXTINF:-1 ,四海钓鱼
+http://cfss.cc/ds/bfgd.php?id=229&Cf.m3u8
+#EXTINF:-1 ,风尚音乐
+http://cfss.cc/ds/bfgd.php?id=294&Cf.m3u8
+#EXTINF:-1 ,黄冈新闻
+http://huanggang-live21.cjyun.org/10210/s10210-xwzh.m3u8?auth_key=1735660799-0-0-d97fed8905fc6066ed8fa063e40b13c0
+#EXTINF:-1 ,黄冈公共
+http://huanggang-live21.cjyun.org/10210/s10210-xwgg.m3u8?auth_key=1735660799-0-0-39c6d712b6337fbdefe84e2d22e34513
 #EXTINF:-1 ,红安综合
-http://hongan-live21.cjyun.org/10063/s10063-HAZH.m3u8?auth_key=1672502399-0-0-3558e7aa827c96ae981416fd28530dae
-#EXTINF:-1 ,黄冈综合
-http://huanggang-live21.cjyun.org/10120/s10120-xwzh.m3u8?auth_key=1672502399-0-0-658b048e38ac7a094a7bca28bf712d53
-#EXTINF:-1 ,黄冈生活
-http://huanggang-live21.cjyun.org/10120/s10120-xwgg.m3u8?auth_key=1672502399-0-0-1810c76c7b12b2b5d853504e46920f66
-#EXTINF:-1 ,凤凰中文
-https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
-#EXTINF:-1 ,CCTV-1
-http://111.40.196.28/PLTV/88888888/224/3221225513/index.m3u8
-#EXTINF:-1 ,CCTV-5
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225633/index.m3u8
-#EXTINF:-1 ,CCTV-16
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226921/index.m3u8
+https://hongan-live21.cjyun.org/10063/s10063-HAZH.m3u8?auth_key=1735660799-0-0-72da7166f8c3751c49c5feb5b24b54b8
+#EXTINF:-1 ,武穴综合
+http://wuxue-live21.cjyun.org/10107/s10107-wxtv1.m3u8?auth_key=1735660799-0-0-b539ae509a2e2778956cdd15ce03062c //Referer=http://app.cjyun.org/
+#EXTINF:-1 ,蕲春综合
+http://qichun-live21.cjyun.org/10126/s10126-TC1T.m3u8?auth_key=1735660799-0-0-019b2fccba0e2126fb17f448171ec5c0 //Referer=http://app.cjyun.org/
+#EXTINF:-1 ,罗田综合
+http://luotian-live21.cjyun.org/10013/s10013-LTZH.m3u8?auth_key=1735660799-0-0-b2fabe2d2b901b3c5dceab42d197b27d //Referer=http://app.cjyun.org/
+#EXTINF:-1 ,黄石新闻综合
+https://huangshifb-live21.cjyun.org/10200/s10200-huangshitv01.m3u8?auth_key=1735660799-0-0-a2a4204859d1b4447db4050a4bc202b1
+#EXTINF:-1 ,咸宁综合
+http://xianning-live21.cjyun.org/10140/s10140-XNTV-1.m3u8?auth_key=1735660799-0-0-b380d98b910466afbd9053c25a7dc408
+#EXTINF:-1 ,咸宁经济生活
+http://xianning-live21.cjyun.org/10140/s10140-XNGG.m3u8?auth_key=1735660799-0-0-d81f4b2fc33920d8341033fef8dcfd16
+#EXTINF:-1 ,赤壁一套
+http://chibi-live21.cjyun.org/10138/s10138-CBTV1.m3u8?auth_key=1735660799-0-0-1751de0a4678e4571fe2af86220e2a2b
+#EXTINF:-1 ,嘉鱼新闻综合
+http://jiayu-live21.cjyun.org/10131/s10131-jyzh.m3u8?auth_key=1735660799-0-0-05395acf38fa1497c0985dcb4c329c0b
+#EXTINF:-1 ,通山综合
+http://tongshan-live21.cjyun.org/10134/s10134-TONGSHAN-live.m3u8?auth_key=1735660799-0-0-aa195babe014c73b2e4f423d1ae4622f
+#EXTINF:-1 ,孝感新闻综合
+http://xiaogan-live21.cjyun.org/10139/s10139-xg.m3u8?auth_key=1735660799-0-0-c66126a1e65c45cfa675dd5f16914315
+#EXTINF:-1 ,孝感生活
+http://xiaogan-live21.cjyun.org/10139/s10139-xg.m3u8?auth_key=1735660799-0-0-c66126a1e65c45cfa675dd5f16914315
+#EXTINF:-1 ,孝昌新闻党建
+http://xiaochang-live21.cjyun.org/10128/s10128-xcxw.m3u8?auth_key=1735660799-0-0-886396e7a9ce6f90ecdbfdf669624539
+#EXTINF:-1 ,大悟综合
+http://yunshangdawu-live21.cjyun.org/10129/s10129-dwzhpd.m3u8?auth_key=1735660799-0-0-b1bf1625df01ea7dabc97bf7aa7f253d
+#EXTINF:-1 ,应城综合
+http://yingcheng-live21.cjyun.org/10135/s10135-YCZH.m3u8?auth_key=1735660799-0-0-b43106dd66cd5d9c827699f0b0204306
+#EXTINF:-1 ,荆州新闻
+http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv01.m3u8?auth_key=1735660799-0-0-e0477d4b5bc584e7518a1bde13892cbe
+#EXTINF:-1 ,荆州垄上
+http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv03.m3u8?auth_key=1735660799-0-0-73625822ff2c77aefa1589e94281edad
+#EXTINF:-1 ,荆州公共
+http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv02.m3u8?auth_key=1735660799-0-0-1963c999651ea135890d90bcc5ae172d
+#EXTINF:-1 ,江陵综合
+http://jiangling-live21.cjyun.org/10090/s10090-jltv01.m3u8?auth_key=1735660799-0-0-13b6e4b48ae41886f872c73bd1c92400
+#EXTINF:-1 ,CCTV1综合
+http://jiangling-live21.cjyun.org/10090/s10090-jltv02.m3u8?auth_key=1735660799-0-0-cca9709aa95c0c612033418412e9ee26
+#EXTINF:-1 ,松滋综合
+http://songzi-live21.cjyun.org/10194/s10194-songzi-tv1.m3u8?auth_key=1735660799-0-0-a380e59865129a39561528ada31d0e63
+#EXTINF:-1 ,洪湖综合
+http://honghu-live21.cjyun.org/10087/s10087-0823-HONGHUTV01.m3u8?auth_key=1735660799-0-0-ee46a4c41ab551c99632c3762df4d7a0
+#EXTINF:-1 ,钟祥综合
+http://zhongxiang-live21.cjyun.org/10103/s10103-zxtv.m3u8?auth_key=1735660799-0-0-bffe4fb8f0bb7142075cb559396d23cc
+#EXTINF:-1 ,襄阳综合
+http://xiangyang-live21.cjyun.org/10125/s10125-news_hd.m3u8?auth_key=1735660799-0-0-40d8372b2d18913fc2cbd9de3962885b //Referer=http://app.cjyun.org/
+#EXTINF:-1 ,襄阳经济生活
+http://xiangyang-live21.cjyun.org/10125/s10125-society_hd.m3u8?auth_key=1735660799-0-0-0854e5bfdd385dbc03373418475c7f88 //Referer=http://app.cjyun.org/
+#EXTINF:-1 ,襄阳公共
+http://xiangyang-live21.cjyun.org/10125/s10125-education_hd.m3u8?auth_key=1735660799-0-0-0ed4aab34fd0b2236a2645ded254589d //Referer=http://app.cjyun.org/
+#EXTINF:-1 ,谷城综合
+http://gucheng-live21.cjyun.org/10116/s10116-GCTV1.m3u8?auth_key=1735660799-0-0-54db49cb2f7940e29d9dfceb9747b0af
+#EXTINF:-1 ,宜昌综合
+http://yichang-live21.cjyun.org/10091/10091-yczh.m3u8?auth_key=1735660799-0-0-152a9f6a201d7d56428feae52d4b18b8
+#EXTINF:-1 ,宜昌旅游生活
+http://yichang-live21.cjyun.org/10091/s10091-ycly.m3u8?auth_key=1735660799-0-0-3232283b7b347bb21b712ea8398761d1
+#EXTINF:-1 ,宜都综合
+http://yidushi-live21.cjyun.org/10092/s10092-yidushitv01.m3u8?auth_key=1735660799-0-0-f29f0d99f876e49e55132b30d52133db
+#EXTINF:-1 ,长阳综合
+http://changyang-live21.cjyun.org/10114/s10114-cy1t.m3u8?auth_key=1735660799-0-0-f8867ea6ca06a65bdf95048518db1f6a
+#EXTINF:-1 ,远安电视台
+http://yuanan-live21.cjyun.org/10106/s10106-yatv.m3u8?auth_key=1735660799-0-0-fdcac90185009731b8e6f51f180ed7b4
+#EXTINF:-1 ,当阳电视台
+http://dangyang-live21.cjyun.org/10118/s10118-DYZH.m3u8?auth_key=1735660799-0-0-f8e56d713bf81af226bae8057d9a1bad
+#EXTINF:-1 ,秭归综合
+http://zigui-live21.cjyun.org/10111/s10111-ZGTV1.m3u8?auth_key=1735660799-0-0-e80e38a154f9ea053e26d2ff5038530a
+#EXTINF:-1 ,五峰电视台
+http://wufeng-live21.cjyun.org/10112/s10112-wffm.m3u8?auth_key=1735660799-0-0-6e0f896e48713ad894a3b35b92780628
+#EXTINF:-1 ,枝江综合
+http://zhijiang-live21.cjyun.org/10120/s10120-zjtv.m3u8?auth_key=1735660799-0-0-fd9715217b53a31e92b5d42d24438b4a
+#EXTINF:-1 ,来凤综合
+http://laifeng-live21.cjyun.org/10099/s10099-lftv01.m3u8?auth_key=1735660799-0-0-b92e243bcdd451ba46874699b392247e
+#EXTINF:-1 ,鄂州新闻综合
+http://ezhou-live21.cjyun.org/10098/s10098-EZ1T.m3u8?auth_key=1735660799-0-0-d737b8c7fad391cc6187d35123baff28
+#EXTINF:-1 ,鄂州公共
+http://ezhou-live21.cjyun.org/10098/s10098-EZ2T.m3u8?auth_key=1735660799-0-0-6deee5ef6d55cce1a924b7c14a999a69
+#EXTINF:-1 ,广水新闻
+http://guangshui-live21.cjyun.org/10146/s10146-GSXW.m3u8?auth_key=1735660799-0-0-c7c7082aa48ecb78ed13d8a4a9b45acc
